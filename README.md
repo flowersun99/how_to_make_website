@@ -5,3 +5,4 @@
 media query를 통해 만들었고 버튼은 js로 누르면 아직 개발 중이라는 alert가 나오게 하였습니다.
 
 
+![image](img/full_image.png) 
